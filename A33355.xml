@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>One blow more at the Saducees and gross antichristian errors containing a brief narrative of the most material things that passed in discourse at Kings-Heath-Meeting the 4th of October 1696 betwixt Thomas Curtis, an antient preacher among the Quakers and me, William Clarke, one that belonged to that meeting.</title>
+            <author>Clarke, William, Quaker.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33355</idno>
+            <idno type="STC">Wing C4568A</idno>
+            <idno type="STC">ESTC R26480</idno>
+            <idno type="EEBO-CITATION">09479614</idno>
+            <idno type="OCLC">ocm 09479614</idno>
+            <idno type="VID">43238</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43238)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1305:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>One blow more at the Saducees and gross antichristian errors containing a brief narrative of the most material things that passed in discourse at Kings-Heath-Meeting the 4th of October 1696 betwixt Thomas Curtis, an antient preacher among the Quakers and me, William Clarke, one that belonged to that meeting.</title>
+                  <author>Clarke, William, Quaker.</author>
+                  <author>Richardson, John, 1667-1753.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Bradford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed by William Clarke and John Richardson.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Natures.</term>
+               <term>Curtis, Thomas.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43238:1"/>
+            <pb n="1" facs="tcp:43238:1" rendition="simple:additions"/>
+            <head>
+               <hi>One Blow More</hi> AT THE SADDUCEES, AND <hi>Groſs Antichriſtian Errors:</hi> CONTAINING A Brief Narrative of the moſt Material Things that paſſed in Diſcourſe at <hi>Kings-Heath</hi>-Meeting, the 4th of <hi>October,</hi> 1696. betwixt <hi>Thomas Curtis</hi> an Antient Preacher among the <hi>Quakers,</hi> and me <hi>William Clarke</hi> one that belonged to that Meeting.</head>
+            <p>
+               <hi>THomas Curtis</hi> in his Preaching, ſpoke much of God being a Spirit, and that Chriſt had a prepared Body, and that the Virgin was overſhadowed with the Holy Ghoſt; and he ſaid, <hi>He muſt be careful what he did ſay; for,</hi> ſaid he, <hi>ſome have char<g ref="char:EOLhyphen"/>ged me with falſe Doctrine;</hi> And he ſaid, <hi>Chriſt was not called by that Name, till he was Born of the Virgin, and he was again Glorified with the ſame Glory he had with the Father before the World began;</hi> and for that <hi>Body he did not know what was become of it; Neither do I care</hi> (ſaid he) <hi>now where it is;</hi> but ſaid, <hi>what may be known of God, is manifeſt with<g ref="char:EOLhyphen"/>in; and this,</hi> ſaid he, <hi>is plain Scripture; for,</hi> ſaid he, <hi>I know nothing of Chriſt but within my ſelf.</hi> Then he told the People, <hi>William Clarke</hi> had charged him with falſe Charges in a Letter; and ſaid, <hi>Wil<g ref="char:EOLhyphen"/>liam Clarke, Stand up and ſpeak, if thou haſt any thing to ſay.</hi> Upon which I ſtood up, and ſaid, <hi>Thomas Curtis,</hi> Thou haſt done the unfaireſt thing I ever ſaw done in my Life; thou (I ſuppoſe) haſt a mind to pick a Quarrel; if thou hadſt acquainted me with what thou didſt intend to do publickly, I would would have had
+<pb n="2" facs="tcp:43238:2"/>
+a Copy of my Letter here; for thou ſtateſt my Letter falſe: Said he, <hi>I thank God I have thy Letter in my Pocket, and do intend to read it to the People.</hi> To which I aſſented, and I proffered him ſeveral times to read it for him, which he refuſed, and ſaid, <hi>He might be ſerved as if he were at the Spaniſh Inquiſition.</hi> So he begins to read, but ſo falſe, that it is a ſhame to think a Man profeſſing Religion, ſhould be ſo foul: And when he had read two or three Lines, preacht upon it: Then I urged him to read it over again, it may be two or three times before he would read it right; one place in my Letter, where I ſay <hi>Chriſt was like unto us in all things (Sin excepted)</hi> and he would read ſo far as <hi>Like unto us in all things;</hi> and he would leave out <hi>[Sin excepted]</hi> and upon that he would Preach a long while; and when he found I would not ſuffer him to read falſe, he would have read no more of the Letter, but I told him, he ſhould read it all, and then he went on after his old way to read falſe, and then to Preaching a long time; and then I would have him read what he left out, for I could remember my Letter, though he would not let me ſo much as look in it: and at this rate he went on Reading and Preaching, for near two Hours it held at this rate, and he would not read all do what I could, and he would not ſuf<g ref="char:EOLhyphen"/>fer me to ſpeak but as little as poſſible, yet I ſpoke more then he was willing, notwithſtanding he challenged me to ſtand up, yet he would not have ſuffered me to have ſpoke ten words, if he could have hindred me; and it would have been hard to have thought ſuch a thing of <hi>T. C.</hi> if I had not heard him: I told him, I would ſtand by every Word in my Letter; and <hi>John Richardſon</hi> ſtood up againſt his falſe Doctrine, though he ſpoke not much, yet it was of good Service. I asked <hi>T. C.</hi> Whether he did believe Chriſt was in Hea<g ref="char:EOLhyphen"/>ven; in the intire Nature of Man of Soul and Body, the ſame for Subſtance he had on Earth, glorified at God's right hand, and his Anſwer was, <hi>Here is one of his Quibbles.</hi> But I urged him again to anſwer, and then he ſaid, <hi>He did not know what was become of his Body; Neither,</hi> ſaid he, <hi>will I give thee any Anſwer.</hi> Then I ap<g ref="char:EOLhyphen"/>pealed to the People, that they might ſee how he would not own his Manhood, <hi>&amp;c.</hi> Then when he comes to the place where I had charged him with denying the Reſurrection of the Body, there he publickly owned no other Reſurrection, but the Reſurrection of the Soul from the Death of Sin; and then I got him to confeſs, that a Man might fall away after he had attained to ſome ſuch Reſurrection. Then he ſaid, <hi>Paul had got all his Reſurrection while here in this World;</hi> and he ſaid, when I asked him when was that change of the Body to be, (mentioned in the <hi>third</hi> of
+<pb n="3" facs="tcp:43238:2"/>
+               <hi>Philip</hi>) he anſwered and ſaid, <hi>His Body ſhould be changed while living here in this World, like unto Chriſt's glorious Body:</hi> And when I put him to that Paragraph in my Letter, where I cited the <hi>third</hi> of <hi>Philip,</hi> then he ſpoke what was mentioned before, and a great deal of that pernicious Doctrine, and where he was charged in my Letter with his ſaying that <hi>the Blood let out of Chriſt's ſide with the Spear, was not of value unto us, (but his inward appearance)</hi> which he abſolutely denyed, and I maintained it; then he ſaid, <hi>He did believe every drop of Blood and Water let out of his ſide, was ſufficient to ſave the whole World:</hi> Then I told him, it was more then I could bring him to confeſs before; then I asked him, whether he had the whole Chriſt in him, becauſe he ſaid but a little before, he knew nothing of Chriſt but in himſelf; and then he ſaid, I would catch him as if every Man had a Chriſt, but ſaid he, <hi>I know none but in me:</hi> Then I asked him, Whether Chriſt had a Soul; he ſaid, <hi>he did not know:</hi> and this was all I could get from him as an Anſwer to this, as he had but juſt before preached; he was blamed by all, except a drunken Man that was there: I being firſt challenged to ſtand up to ſpeak, he would uſe all his endeavour to hinder me, and then at laſt told us, He had paid the Rent for the Barn, but he ſaid he would pay it no longer than <hi>Michaelmas</hi>-Day paſt; And when he came to read that Query in my Letter, where I queried of him, whe<g ref="char:EOLhyphen"/>ther it was the Manhood that ſuffered, or the Godhead? This he would have paſſed by, and not have read it; but I preſſed him ſo hard, he could not but read it, to which I deſired him to anſwer me before the People; and he ſaid plainly before the Auditors, <hi>He could not tell whether it was the Godhead or Manhood that ſuffered.</hi> Ah, groſs Ignorance and Darkneſs! neither could I make him own from firſt to laſt Chriſt being in Heaven without us, in the intire nature of Man, or any thing like it. Then I asked him, whether the Light within was the Blood of Chriſt: <hi>Here is another of his Quibbles</hi> (ſaid he) <hi>I will not anſwer thee.</hi> When I asked him that Queſtion, whether he did believe Chriſt is in Heaven in the intire Nature of Man, as to Soul and Body, the ſame for Subſtance he had on Earth that he took of the Virgin, glorified at God's right hand. <hi>T.C.</hi> ſaid, <hi>Where is God's right hand; Here is another of his Quibbles,</hi> ſaid he. And ſaid, <hi>He would not anſwer to it;</hi> and he would not ſuffer me to ſpeak to it, but fell again to Preaching, to drown the People's un<g ref="char:EOLhyphen"/>derſtanding; but by the conſequence of his fore-going Anſwer, he meant <hi>God's right hand</hi> is no where but in Man, for he ſaid, <hi>he knew of no Chriſt but in himſelf; Neither,</hi> ſaid he, <hi>do I know what is become of that prepared Body, nor where it is, nor do I care.</hi> And when I
+<pb n="4" facs="tcp:43238:3"/>
+would have put him to have anſwered to ſome of my Queries in my Letter to him, I told him they contained Fundamental Doctrines, all the anſwer was, ſaid he, <hi>Thou doſt not know what is Fundamental Doctrines.</hi> I anſwered, Then I have been ill taught by thee for ſo many Years. Now we have many Witneſſes what groſs Errors he held, and publickly avouched; this Letter of mine was writ to him the 27th of the 2d Month, 1696. and this was the 4th of <hi>October,</hi> 1696. it broke forth into ſuch a Flame, without any Provocation, and none of the Meeting but himſelf knew this deſign, as I know of, that was there; for in a little time, after <hi>T. C.</hi> had received my Letter, I met him at <hi>Malbrough,</hi> where we had diſcourſe about the Letter, and he told me, he would not anſwer it, neither did I give any one a Copy of it, and ſhewed my Copy but to a few particular Perſons; and when he had told the People in his Preaching, ſome ſaid we kept our Meanings hid, but ſaid he, <hi>I declare openly;</hi> and yet many Queſtions he was asked afterward he ſaid he would not anſwer, but ſaid they were Quibbles; and ſeveral groſs Errors he maintained them for Truth. And now it plainly appears that from their Preaching and Books, that many People called <hi>Quakers,</hi> not only in <hi>England</hi> have been poyſoned with theſe groſs Errors, but in <hi>America</hi> alſo: And now I hope none will, or can blame me, that have any regard to the <hi>Chriſtian Religion,</hi> that I make this publick, and cry aloud againſt ſuch groſs Errors. And <hi>T.C.</hi> had often challenged us, before I writ to him, <hi>If any of us were diſſatisfied, he would ſatisfie:</hi> And when I ſhewed my diſſatisfaction by Writing, he was offended, and acted ſo diſorderly as this Narrative gives an Ac<g ref="char:EOLhyphen"/>count, and he Challenged 5000 of us, to meet us half way: I anſwer<g ref="char:EOLhyphen"/>ed him, and ſaid, It muſt be then to hear thee ſpeak, for thou wilt let no Body elſe ſpeak: And thus it ended, and ſeveral told him, he had not done a fair thing, and it was ſhameful.</p>
+            <list>
+               <head>
+                  <hi>Thomas Curtis</hi> his Anſwer to <hi>William Clarke</hi>'s Eight Queries, which he gave in a Publick Meeting.</head>
+               <label>His Anſwer to the Firſt Queſtion.</label>
+               <item>I know not what is become of Chriſt's prepared Body, nor where it is; neither do I care: This is <hi>William Clark</hi>'s Quibble.</item>
+               <label>His Anſwer to the Second Queſtion.</label>
+               <item>Here is another of his Quibbles: I know nothing of Chriſt but within my ſelf, <hi>(and</hi> T. C. <hi>being asked, whether Chriſt had a Soul) he ſaid,</hi> I do not know that he had a Soul.</item>
+               <pb n="5" facs="tcp:43238:3"/>
+               <label>His Anſwer to the Third Queſtion.</label>
+               <item>There is no Reſurrection but of the Soul from the Death of Sin, our Bodies are the Graves; this I have often preached, and I do maintain it.</item>
+               <label>His Anſwer to the Fourth Queſtion.</label>
+               <item>Here is another of his Quibbles. <hi>(W. C. asked</hi>T. C. <hi>whether the Light within was the Blood of Chriſt:)</hi> He would catch me<hi>(ſaid</hi> T. C. ) I know nothing of Chriſt but within my ſelf: I will not anſwer thee.</item>
+               <label>To the Fifth</label>
+               <item>T. C. gave no Anſwer, therefore <hi>Solomon Eccles</hi>'s may ſerve here, that <hi>the Blood of Christ was no more than the Blood of another Saint.</hi>
+               </item>
+               <label>His Anſwer to the Sixth Queſtion.</label>
+               <item>
+                  <hi>Paul</hi> got all his Reſurrection while living in this World, and I expect my own Body ſhall be changed like unto Chriſt's Glorious Body, here in this World; and there is no other Reſurrection but of the Soul from the Death of Sin; our Bodies are the Graves.</item>
+               <label>His Anſwer to the Seventh Queſtion.</label>
+               <item>I know nothing of Chriſt but within my ſelf; and for that prepared Body, I do not know where it is, neither do I care.</item>
+               <label>His Anſwer to the Eighth Queſtion.</label>
+               <item>
+                  <hi>T. Curtis</hi> being deſired to anſwer, whether it was the Godhead that ſuffered, or the Manhood? <hi>I know not</hi> (ſaid <hi>T. Curtis) whether it was the Godhead or the Manhood that ſuffered; theſe things are Quibbles.</hi>
+               </item>
+            </list>
+            <p>So Reader, when thou haſt conſidered the Narrative, and compared <hi>T. C</hi>'s Anſwers to the Eight Queſtions in my Letter ſent to him, bear<g ref="char:EOLhyphen"/>ing date the 22d. of the 2d. Month, 1696. thou wilt find <hi>George Whitehead,</hi> and <hi>William Penn,</hi> and <hi>Thomas Curtis,</hi> agree in groſs Errors, by comparing <hi>T. C</hi>'s Anſwers with <hi>G.W.</hi> and <hi>W P</hi>'s Books; And (He) the ſaid <hi>Thomas Curtis</hi> challenged 5000 of us half way from his own Dwelling, to meet to diſpute and maintain his Principles.</p>
+            <p>
+               <hi>Reader,</hi> I have been among the <hi>Quakers</hi> between 6 and 7 and 30 Years, and have been a Hearer of T. C. near 30 Years, and I do ſay, he is a Man I had and ſtill have a kindneſs for, as a Man, having long hoped to have recovered him from theſe groſs and pernicious Errors: but now he ſeems rather more bold in theſe groſs Errors, than formerly. This I do further ſay, I never heard <hi>T. Curtis</hi> in all my Life, pray to God to forgive us our Sins for Jeſus ſake, but boaſt of his own Perfections, <hi>that he was come to the Reſurrection, and had all the Reſurrection he did ever
+<pb n="6" facs="tcp:43238:4"/>
+expect, and all the Judgment</hi> (he hath ſaid) <hi>I have here in this World, and at the time of Death.</hi> Many can teſtifie theſe things have been common with T. C. to preach, and always Father his Doctrine upon the Spirit of God. And now I ſhall leave it to all Impartial Men, whether the Light in this Man is not groſs Darkneſs; nay, in the firſt Week of <hi>November,</hi> 1699. I heard a <hi>Foxonian Quaker</hi> ſay in my Houſe, that <hi>they did not adore</hi> Gorge Fox, <hi>but the Light in</hi> George Fox: And ſaid the ſame <hi>Quaker</hi> to me, <hi>Thomas Curtis holds all the Principles of the Quakers Rightly.</hi> In 1695. I had ſome Diſcourſe with T. C. of <hi>Chriſt</hi> Aſcending into Heaven, and he would not own it; I brought the <hi>firſt</hi> of the <hi>Acts</hi> to prove it, which ſaid, <hi>Ye Men of</hi> Galilee, <hi>why ſtand ye gazing up into Heaven; this ſame Jeſus which is taken up from you into Heaven, ſhall ſo come in like manner as ye have ſeen him go into Heaven.</hi> He told me, he did not believe it was ſo writ; but ſaid he, <hi>If it be ſo writ, every Like is not the ſame.</hi> You ſee by his Anſwers to my Que<g ref="char:EOLhyphen"/>ries, that he will not own Chriſt to be a Man, for if he had no Soul, he could not be a Man, he had only a prepared Body, <hi>but where it is, or what is become of it, neither</hi> (ſaid T. C.) <hi>do I care.</hi> Now theſe things were not done in ſecret, or private, but in a publick Aſſembly; nay, and we that withſtood theſe groſs Errors, T.C. ſaid, <hi>we had manifeſt<g ref="char:EOLhyphen"/>ed our ſelves, and ſhould be more manifeſt;</hi> as if ſome Evil ſhould befall us, for oppoſing their groſs Errors; for it is uſual for this ſort of People to pour out Propheſies, ſo that nothing can befall any, but they have beſpoke it all before-hand; And I hope none that are pious, will or can blame me for making this publick; for what I had writ to him in a pri<g ref="char:EOLhyphen"/>vate Letter, he made publick in a Meeting for Worſhip; and alſo ſaid in this Conference, <hi>all that did not ſpeak, were ſatisfied with theſe Doctrines of his here laid down.</hi> And I hope this may be a means to excite all pious Men of all Profeſſions to draw forth their Pens againſt theſe damnable Hereſies, who may be more able to do it then my feeble Pen can do.</p>
+            <p>
+               <hi>Reader,</hi> whereas there may go abroad divers Reports of what hap<g ref="char:EOLhyphen"/>pened the 4th. of <hi>October,</hi> at <hi>Kings-Heath</hi>-Meeting, I thought it ne<g ref="char:EOLhyphen"/>ceſſary to acquaint the Reader with the Reaſons, and to prevent falſe Reports that may go about it, <hi>Thomas Curtis</hi> did commonly in his Preaching, Challenge any that were not ſatisfied with his Do<g ref="char:EOLhyphen"/>ctrine, That if they would ſhew their diſſatisfactions, he would endeavour to inform them: And I and divers more, were not ſatis<g ref="char:EOLhyphen"/>fied with his unſound Doctrine, I wrote a Letter to him the 22d. of the 2d. Month, 1696. ſhewing my diſſatisfaction, with <hi>Eight Queries</hi> I propoſed to him, deſiring his Anſwer; and I received a Letter from him, bearing date the 29th. of the 2d. Month, 1696. wherein he pro<g ref="char:EOLhyphen"/>miſed
+<pb n="7" facs="tcp:43238:4"/>
+to give me and my diſſatisfied Friends <hi>a Meeting at ſome Conve<g ref="char:EOLhyphen"/>nient Place, as we ſhall agree</hi> (ſaid he.) Some ſhort time after, he told me, He did not underſtand three Words or three Lines in my Letter and (ſaid he) <hi>I will not Anſwer it;</hi> But about ſix Months after, he pro<g ref="char:EOLhyphen"/>ceeded as the Narrative gives an Account (that is to ſay) without any agreed Meeting, nor any one Perſon in the Meeting knowing any thing of his Deſign, and began as the Narrative will inform thee, which was a ſurpriſe to the People; and though he tells me in his Letter, he would give me and my diſſatisfied Friends a Meeting, as we ſhould agree, yet he kept not his Word, and now challenged to meet 5000 of us half way, to Diſpute, which I hope he will keep to his laſt Challenge; yet he hath ſaid to a Friend of mine, <hi>He hath waſh<g ref="char:EOLhyphen"/>ed his Hands of us:</hi> but ſurely he cannot have waſhed his Hands of us till he hath met us half way, according to his Challenge, or elſe acknowledge his groſs Error under his own Hand: And for theſe Reaſons I made it publick, ſo that all profeſſing <hi>Chriſtianity,</hi> and that are Pious, may ſee the reaſon that I had in the <hi>firſt</hi> place to write to <hi>T. C.</hi> and ſuch unſound Doctrine continually broached among us; and <hi>ſecondly,</hi> his proceedings contrary to his own Letter, and then his Reading my Letter ſo partially, as may be ſeen in the Narrative; and <hi>thirdly,</hi> hoping others may be ſtirred up by hearing ſuch groſs Errors maintained in a publick Aſſembly, and a Challenge to meet 5000 to maintain it, that Pious Men will not only juſtifie me in this my Publication, wherein the Doctrine of the <hi>Chriſtian Religion</hi> is in ſo great danger to be undermined: And <hi>fourthly,</hi> that it may be ſeen that theſe <hi>Quakers,</hi> and <hi>George Whitehead,</hi> and <hi>William Penn,</hi> agree in groſs Errors, and only differ chiefly about the Female Govern<g ref="char:EOLhyphen"/>ment of Womens Meetings: <hi>Fifthly,</hi> and that many may be deli<g ref="char:EOLhyphen"/>vered from thoſe pernicious Errors theſe People hold: And <hi>ſixthly,</hi> that no more may be drawn aſide; for it is notorious, that they are the moſt ſtubborn people this day in <hi>Chriſtendom</hi> to be reformed.</p>
+            <p>And <hi>Reader,</hi> if thou ſhalt pleaſe to compare this above Narrative, with a Paper lately publiſhed in Print by ſome <hi>Reading-Quakers,</hi> whereof <hi>T. C.</hi> is one, Intituled, <hi>The Reading Quakers vindicated,</hi> wherein he plainly contradicts moſt of his unſound Aſſertions he open<g ref="char:EOLhyphen"/>ly in that publick Meeting at the Barn at <hi>Kings-Heath</hi> avouched, How can thou but be ſtruck with Aſtoniſhment and Horror, to find Men ſo hardned in their Hypocriſie, ſo as to publiſh in Print, a Faith, point-blank contradictory in ſome of the chiefeſt things, to what they have both often before, and ſince, profeſſed before ſufficient Wit<g ref="char:EOLhyphen"/>neſs, and who have the Impudence to ſay, They are not changed in any of their Principles: For if they hold the ſame Principles ſtill,
+<pb n="8" facs="tcp:43238:5" rendition="simple:additions"/>
+which he at <hi>Kings-Heath</hi>-Meeting did publickly avouch as oft elſe<g ref="char:EOLhyphen"/>where, whereof there are ſufficient Witneſſes; it is manifeſtly evi<g ref="char:EOLhyphen"/>dent, that there late Printed Vindication is a great Cheat and Im<g ref="char:EOLhyphen"/>poſtor put upon the World.</p>
+            <p>That the above Narrative is a true Relation of the moſt material things that paſſed in Diſcourſe at <hi>Kings-Heath</hi>-Meeting aforeſaid, we do ſincerely declare, and in Teſtimony thereof, both of us being Eye and Ear Witneſſes, we ſet to our Names.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>William Clarke,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Richardſon,</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="appended_letter">
+            <head>Here followeth a Copy of <hi>Thomas Curtis</hi> Letter he ſent me, upon the receiving my Letter, which I thought fit here to inſert.</head>
+            <opener>
+               <dateline>
+                  <date>This <hi>29</hi>th. Day of <hi>April, 1696.</hi>
+                  </date>
+               </dateline>
+               <salute>Loving Friend,</salute>
+            </opener>
+            <p>I Have thy long Paper, with many falſe Aſſertions in it, which in time I may Anſwer; and I would know the Names of thoſe who are diſſatisfied with my Declaration; my time is ſhort, and I have a great deal to do, and cannot in<g ref="char:EOLhyphen"/>tend to anſwer ſo many needleſs Impertinent Queſtions, and falſe Charges as is therein: But my Buſineſs once a little over, I may give thee and thy diſſatisfied Friends a Meeting, at ſome Convenient Place, as we ſhall agree. I have no more, but my Love to thee, and thy Wife, and Family, and remain thy Friend,</p>
+            <closer>
+               <signed>Thomas Curtis.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Bradford,</hi> in <hi>New-ſtreet,</hi> without <hi>Biſhops-gate</hi> near <hi>Hand-Ally,</hi> 1697</p>
+            <pb facs="tcp:43238:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
